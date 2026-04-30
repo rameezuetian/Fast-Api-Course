@@ -1,0 +1,124 @@
+{
+  "patients": [
+    {
+      "id": "P001",
+      "name": "John Smith",
+      "city": "New York",
+      "age": 35,
+      "gender": "Male",
+      "height": 1.78,
+      "weight": 75,
+      "bmi": 23.7,
+      "verdict": "Healthy",
+      "poo2": 98
+    },
+    {
+      "id": "P002",
+      "name": "Sarah Johnson",
+      "city": "Los Angeles",
+      "age": 28,
+      "gender": "Female",
+      "height": 1.65,
+      "weight": 62,
+      "bmi": 22.8,
+      "verdict": "Healthy",
+      "poo2": 99
+    },
+    {
+      "id": "P003",
+      "name": "Michael Brown",
+      "city": "Chicago",
+      "age": 45,
+      "gender": "Male",
+      "height": 1.80,
+      "weight": 92,
+      "bmi": 28.4,
+      "verdict": "Overweight",
+      "poo2": 96
+    },
+    {
+      "id": "P004",
+      "name": "Emily Davis",
+      "city": "Houston",
+      "age": 32,
+      "gender": "Female",
+      "height": 1.72,
+      "weight": 88,
+      "bmi": 29.7,
+      "verdict": "Overweight",
+      "poo2": 97
+    },
+    {
+      "id": "P005",
+      "name": "Robert Wilson",
+      "city": "Phoenix",
+      "age": 55,
+      "gender": "Male",
+      "height": 1.75,
+      "weight": 105,
+      "bmi": 34.3,
+      "verdict": "Obese",
+      "poo2": 94
+    },
+    {
+      "id": "P006",
+      "name": "Jessica Martinez",
+      "city": "Philadelphia",
+      "age": 26,
+      "gender": "Female",
+      "height": 1.60,
+      "weight": 48,
+      "bmi": 18.8,
+      "verdict": "Healthy",
+      "poo2": 99
+    },
+    {
+      "id": "P007",
+      "name": "David Anderson",
+      "city": "San Antonio",
+      "age": 52,
+      "gender": "Male",
+      "height": 1.82,
+      "weight": 98,
+      "bmi": 29.6,
+      "verdict": "Overweight",
+      "poo2": 95
+    },
+    {
+      "id": "P008",
+      "name": "Amanda Taylor",
+      "city": "San Diego",
+      "age": 31,
+      "gender": "Female",
+      "height": 1.68,
+      "weight": 65,
+      "bmi": 23.0,
+      "verdict": "Healthy",
+      "poo2": 98
+    },
+    {
+      "id": "P009",
+      "name": "Christopher Lee",
+      "city": "Dallas",
+      "age": 48,
+      "gender": "Male",
+      "height": 1.76,
+      "weight": 110,
+      "bmi": 35.5,
+      "verdict": "Obese",
+      "poo2": 93
+    },
+    {
+      "id": "P010",
+      "name": "Michelle White",
+      "city": "San Jose",
+      "age": 29,
+      "gender": "Female",
+      "height": 1.63,
+      "weight": 50,
+      "bmi": 18.8,
+      "verdict": "Healthy",
+      "poo2": 99
+    }
+  ]
+}
