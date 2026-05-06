@@ -136,4 +136,4 @@ def delete_patient(patient_id : str = Path(... , description="The ID of the pati
             save_data(data)
             return JSONResponse(content={"message": "Patient deleted successfully"}, status_code=200)
     
-    raise HTTPException(status_code=404, detail="Patient not found")
+    raise HTTPException(status_code=404, detail="Patient not found")           
